@@ -9,6 +9,7 @@ verify_ssl = true
 python-dotenv = "*"
 beautifulsoup4 = "*"
 requests = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"

@@ -1,14 +1,5 @@
+from database.models.career_result import CareerResult
 from scraping.helpers import get_and_parse
-
-
-class CareerResult:
-    def __init__(self, code, names, eap, score, merit, obs):
-        self.code  = code
-        self.names = names
-        self.eap   = eap
-        self.score = score
-        self.merit = merit
-        self.obs   = obs
 
 
 def build_row_obj(tags):

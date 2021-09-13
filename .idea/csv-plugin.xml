@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\database\models\__init__.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\database\models\career_result.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\main.py">
           <value>
             <Attribute>

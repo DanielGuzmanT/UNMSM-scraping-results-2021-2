@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 python-dotenv = "*"
+beautifulsoup4 = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"

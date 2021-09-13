@@ -10,5 +10,5 @@ class CareerResult(Base):
     names = Column(String)
     eap   = Column(String)
     score = Column(Float)
-    merit = Column(String)
+    merit = Column(Integer)
     obs   = Column(String)
